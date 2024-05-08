@@ -1,3 +1,7 @@
 data/
 notebooks/data
 .DS_Store
+.env
+.envrc
+.python-version
+*.xlsx
