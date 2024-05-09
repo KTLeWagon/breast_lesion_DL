@@ -5,3 +5,4 @@ notebooks/data
 .envrc
 .python-version
 *.xlsx
+models/
